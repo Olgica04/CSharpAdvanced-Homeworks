@@ -1,0 +1,11 @@
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\bin\Debug\net8.0\Task4.Domain.deps.json
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\bin\Debug\net8.0\Task4.Domain.dll
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\bin\Debug\net8.0\Task4.Domain.pdb
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\obj\Debug\net8.0\Task4.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\obj\Debug\net8.0\Task4.Domain.AssemblyInfoInputs.cache
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\obj\Debug\net8.0\Task4.Domain.AssemblyInfo.cs
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\obj\Debug\net8.0\Task4.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\obj\Debug\net8.0\Task4.Domain.dll
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\obj\Debug\net8.0\refint\Task4.Domain.dll
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\obj\Debug\net8.0\Task4.Domain.pdb
+C:\Users\oleol\Homework-CSharpAdvanced\Task4-Homework\Task4.Domain\obj\Debug\net8.0\ref\Task4.Domain.dll
